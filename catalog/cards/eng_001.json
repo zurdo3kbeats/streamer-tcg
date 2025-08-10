@@ -1,0 +1,12 @@
+{
+  "id": "eng_001",
+  "setId": "BASE",
+  "name": "Energía Agua",
+  "supertype": "Energy",
+  "rarity": "Common",
+  "provides": "Water",
+  "isSpecial": false,
+  "imageUrl": "https://TU-USUARIO.github.io/streamer-tcg-catalog/media/cards/eng_001.png",
+  "imageSha256": "",
+  "sha256": ""
+}
